@@ -1,0 +1,7 @@
+{
+    "participants": ["krymancer-ocaml-ffi"],
+    "social": ["https://github.com/krymancer"],
+    "source-code-repo": "https://github.com/krymancer/rinha-de-backend-2026-ocaml-ffi",
+    "stack": ["ocaml", "c-ffi", "ivf", "avx2", "epoll", "scm_rights"],
+    "open_to_work": false
+}

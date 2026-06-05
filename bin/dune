@@ -1,0 +1,7 @@
+(executable
+ (name main)
+ (foreign_stubs
+  (language c)
+  (names stubs vec ivf net http server lb)
+  (flags (-O3 -march=haswell -mavx2 -std=gnu11 -D_GNU_SOURCE)))
+ (link_flags (-cclib -lm)))
